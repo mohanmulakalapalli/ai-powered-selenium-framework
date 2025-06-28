@@ -167,8 +167,5 @@ Share your project on LinkedIn or GitHub to showcase your automation and AI skil
 
 ## 📄 License
 
-MIT License
+[MIT LICENSE](LICENSE)
 
-Copyright (c) 2025 Mulakalapalli Mohana Krishna
-
-Permission is hereby granted, free of charge, to any person obtaining a copy...
