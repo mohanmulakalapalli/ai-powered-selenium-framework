@@ -1,0 +1,33 @@
+2025-06-25 21:03:12,563 - INFO - Login Positive passed
+2025-06-25 21:03:15,100 - INFO - Login Negative passed
+2025-06-25 21:03:18,129 - INFO - Page Timeout passed
+2025-06-25 21:03:21,519 - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-06-25 21:03:22,274 - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-06-25 21:03:22,957 - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-06-25 21:54:26,208 - INFO - Login Positive passed
+2025-06-25 21:54:28,977 - INFO - Login Negative passed
+2025-06-25 21:54:32,004 - INFO - Page Timeout passed
+2025-06-25 21:54:35,263 - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-06-25 21:54:36,159 - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-06-25 21:54:36,795 - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-06-25 21:56:47,272 - INFO - Login Positive passed
+2025-06-25 21:56:49,354 - INFO - Login Negative passed
+2025-06-25 21:56:52,387 - INFO - Page Timeout passed
+2025-06-25 21:56:56,674 - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-06-25 21:56:57,759 - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-06-25 21:56:58,069 - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-06-25 23:22:42,492 - INFO - Login Positive passed
+2025-06-25 23:22:43,982 - INFO - Login Negative passed
+2025-06-25 23:22:46,997 - INFO - Page Timeout passed
+2025-06-25 23:24:30,068 - INFO - Login Positive passed
+2025-06-25 23:24:31,559 - INFO - Login Negative passed
+2025-06-25 23:24:34,571 - INFO - Page Timeout passed
+2025-06-25 23:24:37,729 - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-06-25 23:24:38,023 - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-06-25 23:24:38,608 - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-06-25 23:33:39,881 - INFO - Login Positive passed
+2025-06-25 23:33:41,476 - INFO - Login Negative passed
+2025-06-25 23:33:44,507 - INFO - Page Timeout passed
+2025-06-25 23:33:47,528 - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-06-25 23:33:47,806 - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-06-25 23:33:48,647 - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
