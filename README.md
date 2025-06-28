@@ -1,3 +1,27 @@
+# 🤖 AI-Enhanced Hybrid Selenium Framework
+
+Test smarter. Report better. Automate faster.
+
+![Python](https://img.shields.io/badge/Python-3.9+-blue)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-green)
+![AI](https://img.shields.io/badge/AI-Gemini%2FOpenAI-purple)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
+
+## ✨ What This Is
+
+A professional, modular, AI-powered Selenium framework that:
+- Generates HTML reports
+- Sends email summaries
+- Tracks test history
+- Captures logs and screenshots
+- Summarizes results using Gemini AI
+
+📊 [See the dashboard](reports/dashboard.html)
+
+📬 [View the AI report](reports/ai_selenium_report.html)
+
+---
+
 # Hybrid Selenium AI Framework
 
 ## 🚀 Overview
@@ -14,17 +38,17 @@ A robust, data-driven, and keyword-based Selenium automation framework enhanced 
 - **AI-Powered Test Summaries**  
   Uses Gemini (Google Generative AI) to generate professional summaries for each test result.
 
-![Test Summary Example](image-1.png)
+![Test Summary Example](ai-summary.png)
 
 - **HTML Reporting & Dashboard**  
   Generates detailed HTML reports and a historical dashboard ([reports/dashboard.html](reports/dashboard.html)) for all test runs.
 
-![Dashboard Example](image-3.png)
+![Dashboard Example](dashboard.png)
 
 - **Automated Email Notifications**  
   Sends the latest report via email with pass/fail statistics.
 
-![Email Example](image.png)
+![Email Example](email-preview.png)
 
 - **Logging & Screenshots**  
   Logs all test activity and captures screenshots on failure.
@@ -143,4 +167,8 @@ Share your project on LinkedIn or GitHub to showcase your automation and AI skil
 
 ## 📄 License
 
-MIT
+MIT License
+
+Copyright (c) 2025 Mulakalapalli Mohana Krishna
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...
